@@ -2,6 +2,9 @@
 
 A custom smart home dashboard for [Hubitat Elevation](https://hubitat.com/) with fully clickable tiles and a modern, responsive interface. Also includes a Tuya IoT Cloud integration driver.
 
+![Dashboard on Echo Show](images/dashboard-echo-example.png)
+*Example dashboard running on an Amazon Echo Show — lights, blinds, temperature sensors, and more.*
+
 ## Project Contents
 
 | File | Description |
